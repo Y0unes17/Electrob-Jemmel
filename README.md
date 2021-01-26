@@ -17,6 +17,7 @@ club Electrob-Jemmel
 <h1>Files & directories</h1>
 <p>Source html files</p>
 <p>CSS files</p>
+<p>js files</p>
 <hr>
 <h1>Credits</h1>
 <p>Built & designed by (Younes ben salah).</p>
